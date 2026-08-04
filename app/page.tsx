@@ -1,6 +1,12 @@
 import Navbar from "../components/Navbar";
 import About from "../components/About";
 import Research from "../components/Research";
+import Publications from "../components/Publications";
+import Experience from "../components/Experience";
+import Skills from "../components/Skills";
+import Education from "../components/Education";
+import Contact from "../components/Contact";
+import Footer from "../components/Footer";
 export default function Home() {
   return (
     <main
@@ -47,7 +53,13 @@ export default function Home() {
         </div>
       </section>
       <About />
+      <Education />
        <Research />
+       <Publications />
+       <Experience />
+       <Skills />
+       <Contact />
+       <Footer />
     </main>
   );
 }
