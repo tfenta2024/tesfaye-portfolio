@@ -9,7 +9,7 @@ const experiences: ExperienceItem[] = [
   {
     role: "Lecturer",
     institution: "Bule Hora University, Oromia, Ethiopia",
-    period: "August 2020 – December 2022",
+    period: "August 2020 – Present",
     responsibilities: [
       "Taught undergraduate and graduate Computer Science courses.",
       "Conducted research in machine learning and data science.",

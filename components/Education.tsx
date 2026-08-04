@@ -10,14 +10,14 @@ type EducationItem = {
 
 const educationItems: EducationItem[] = [
   {
-    degree: "PhD in Computer Science",
-    institution: "Beijing Institute of Technology",
-    location: "Beijing, China",
-    period: "September 2022 – June 2026",
-    supervisor: "Prof. Zhendong Niu",
-    researchFocus:
-      "Sequential recommendation systems, cross-domain recommendation, and large language models",
-  },
+  degree: "PhD in Computer Science",
+  institution: "Beijing Institute of Technology",
+  location: "Beijing, China",
+  period: "September 2022 – September 2026 (Expected)",
+  supervisor: "Prof. Zhendong Niu",
+  researchFocus:
+    "Sequential recommendation systems, cross-domain recommendation, and large language models",
+},
   {
     degree: "MSc in Computer Science",
     institution: "Ambo University",

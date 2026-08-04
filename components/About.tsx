@@ -35,8 +35,9 @@ export default function About() {
         <div className="mt-12 grid gap-12 lg:grid-cols-[1.4fr_1fr]">
           <div className="space-y-6 text-lg leading-8 text-slate-300">
             <p>
-              I am a Computer Science lecturer at Bule Hora University and a
-              PhD candidate in Computer Science and Technology at Beijing Institute of Technology.
+              I am a Computer Science lecturer at Bule Hora University and a PhD
+              candidate at Beijing Institute of Technology, with expected completion
+              in September 2026.
             </p>
 
             <p>

@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     card: "summary",
     title: "Tesfaye Fenta | Computer Science Researcher",
     description:
-      "Academic portfolio focused on recommendation systems, deep learning, and large language models.",
+               "Academic portfolio of Tesfaye Fenta, a Computer Science lecturer and PhD candidate specializing in recommendation systems, deep learning, machine learning, and large language models.",
   },
   robots: {
     index: true,

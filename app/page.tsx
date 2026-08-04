@@ -30,9 +30,9 @@ export default function Home() {
           </h2>
 
           <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-400">
-            I am a lecturer at Bule Hora University and a researcher
-            interested in recommender systems, deep learning, and large
-            language models.
+            I am a lecturer at Bule Hora University and a PhD candidate in
+           Computer Science. My research focuses on recommender systems, deep
+           learning, and large language models.
           </p>
 
           <div className="mt-10 flex flex-wrap gap-4">
